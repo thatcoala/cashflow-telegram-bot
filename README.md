@@ -69,7 +69,15 @@ money-bot/
 
 ## 📸 Скриншоты
 
-*Здесь будут скриншоты интерфейса бота*
+<div align="center">
+  <img src="screenshots/main_menu.jpg" alt="Главное меню" width="300"/>
+  <img src="screenshots/add_expense.jpg" alt="Добавление расхода" width="300"/>
+  <br>
+  <img src="screenshots/statistics.jpg" alt="Статистика" width="300"/>
+  <img src="screenshots/history.jpg" alt="История расходов" width="300"/>
+  <br>
+  <img src="screenshots/export.jpg" alt="Экспорт данных" width="300"/>
+</div>
 
 ## 🤝 Участие в разработке
 
