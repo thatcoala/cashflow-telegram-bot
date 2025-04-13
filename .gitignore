@@ -39,6 +39,3 @@ ENV/
 
 # Logs
 *.log 
-
-# Screenshots
-screenshots/ 
