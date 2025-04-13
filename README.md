@@ -85,6 +85,6 @@ money-bot/
 
 ## 📞 Контакты
 
-Ваше имя - [@thatcoala1](https://t.me/@thatcoala1)
+Мой Telegram - [@thatcoala1](https://t.me/@thatcoala1)
 
 Ссылка на проект: [https://github.com/thatcoala/cashflow-telegram-bot](https://github.com/thatcoala/cashflow-telegram-bot) 
